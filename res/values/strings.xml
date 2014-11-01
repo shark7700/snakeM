@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snake LM</string>
+    <string name="StartButton">Start the game!</string>
+    <string name="lose">You Lose!</string>
+    <string name="score">Your score</string>
+     <string name="Sound">Sound</string>
+</resources>
